@@ -1,0 +1,3 @@
+This is a sample text file.
+It will be used to test the Huffman compression and decompression.
+The quick brown fox jumps over the lazy dog.
